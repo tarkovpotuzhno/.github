@@ -1,5 +1,5 @@
 <div align="center">
 
-![skeleton meme](skeleton.gif)
+![Animated skeleton dancing meme](skeleton.gif)
 
 </div>
