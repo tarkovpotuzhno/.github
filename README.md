@@ -46,7 +46,7 @@
 **No masters, no servers** — Only distributed systems  
 **Break conventions** — But never production  
 **Question authority** — Except the git blame  
-**Live free** — Or `sudo rm -rf /`
+**Live free** — Or die(0)
 
 ---
 
